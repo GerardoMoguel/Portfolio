@@ -2,7 +2,7 @@
 Compilation of different projects i've worked on.
 The projects go from simple database systems to complex videogames, using OOP.
 
-#Database Systems
+# Database Systems
 1. DBS to manage supplies in a restaurant (C# and SQL)
    Introduction.
      Objectives.
@@ -15,7 +15,7 @@ The projects go from simple database systems to complex videogames, using OOP.
    Parts of the project.
    Final result.
    
-#Videogame and AR development
+# Videogame and AR development
 Directed for TERA, one of ITAM's engineering labs.
 In help of a team of 4 members.
 I will limit the content to exclusively parts i've worked on, and at the end the final result.
@@ -38,5 +38,5 @@ I will limit the content to exclusively parts i've worked on, and at the end the
   Parts of the project.
   Final result. 
 
-#Current projects.
+# Current projects.
 Currently developing a web application with a dbs for Grupo Granda, a real state company, where they can maange their properties in a web page; improving the 
