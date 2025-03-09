@@ -9,27 +9,7 @@ Beyond my interest for tech and philosophy (ethics). I also love music, videogam
    The methodology and how all the workflow is managed at TERA lab is well explained in the next document:
    https://docs.google.com/document/d/1t7igS012MH_i6QS8Ifqig6BNbo7y_gf7AnTlNAXm9Ew/edit?usp=sharing
 
-   Projects we've done.
-   
-   
-## Database Systems
-### 1. DBS to manage supplies in a restaurant (C# and SQL)
-   Introduction.
-     Objectives.
-   Parts of the project.
-   Final result.
-   
-### 2. Same DBS to manage supplies in restaurant (JAVA)
-  Introduction.
-     Objectives.
-   Parts of the project.
-   Final result.
-   
-## Videogame and AR development
-Directed for TERA, one of ITAM's engineering labs.
-In help of a team of 4 members.
-I will limit the content to exclusively parts i've worked on, and at the end the final result.
-
+## Projects we've done.
 ### 1. Music Box.
   Introduction.
     Objectives.
@@ -47,6 +27,16 @@ I will limit the content to exclusively parts i've worked on, and at the end the
     Objectives.
   Parts of the project.
   Final result. 
-
-## Current projects.
-Currently developing a web application with a dbs for Grupo Granda, a real state company, where they can maange their properties in a web page; improving the 
+   
+## Database Systems
+### 1. DBS to manage supplies in a restaurant (C# and SQL)
+   Introduction.
+     Objectives.
+   Parts of the project.
+   Final result.
+   
+### 2. Same DBS to manage supplies in a restaurant (JAVA)
+  Introduction.
+     Objectives.
+   Parts of the project.
+   Final result.
