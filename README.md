@@ -1,7 +1,12 @@
 # Portfolio
-Compilation of different projects i've worked on.
-The projects go from simple database systems to complex videogames, using OOP.
+Hey, my name is Gerardo Moguel, im a Computer Engineer student at Instituto Tecnologico Autonomo de Mexico (ITAM).
+I strive to find a balanace in everything i do, for it to align with my ethics and core values. I try to represent that in my work.
+Beyond my interest for tech and philosophy (ethics). I also love music, videogames, anime and playing guitar.
 
+##TERA.
+### 1. Directing TERA (Technology and Education Reimagining Learning).
+   Introduction. 
+   
 ## Database Systems
 ### 1. DBS to manage supplies in a restaurant (C# and SQL)
    Introduction.
