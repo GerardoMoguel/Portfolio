@@ -6,6 +6,9 @@ Beyond my interest for tech and philosophy (ethics). I also love music, videogam
 ## TERA.
 ### 1. Directing TERA (Technology and Education Reimagining Learning).
    Introduction. 
+   The methodology and how all the workflow is managed at TERA lab is well explained in the next document:
+   https://docs.google.com/document/d/1t7igS012MH_i6QS8Ifqig6BNbo7y_gf7AnTlNAXm9Ew/edit?usp=sharing
+   
    
 ## Database Systems
 ### 1. DBS to manage supplies in a restaurant (C# and SQL)
