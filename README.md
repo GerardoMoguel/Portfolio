@@ -1,5 +1,5 @@
 # Portfolio
-Hey, my name is Gerardo Moguel, im a Computer Engineer student at Instituto Tecnologico Autonomo de Mexico (ITAM).  
+Hey, my name is Gerardo Moguel, im a Computer Engineering student at Instituto Tecnologico Autonomo de Mexico (ITAM).  
 I strive to find a balance in everything i do, for it to align with my ethics and core values. I try to represent that in my work.  
 Beyond my interest for tech and philosophy (ethics). I also love music, videogames, anime and playing guitar.  
 
@@ -8,6 +8,8 @@ Beyond my interest for tech and philosophy (ethics). I also love music, videogam
    Introduction. 
    The methodology and how all the workflow is managed at TERA lab is well explained in the next document:
    https://docs.google.com/document/d/1t7igS012MH_i6QS8Ifqig6BNbo7y_gf7AnTlNAXm9Ew/edit?usp=sharing
+
+   Projects we've done.
    
    
 ## Database Systems
