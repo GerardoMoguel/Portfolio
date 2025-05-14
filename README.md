@@ -1,3 +1,4 @@
+# work in progress! (sorry), but i invite you to check the projects on my profile
 # Portfolio
 Hey, my name is Gerardo Moguel, im a Computer Engineering student at Instituto Tecnologico Autonomo de Mexico (ITAM).  
 I strive to find a balance in everything i do, for it to align with my ethics and core values. I try to represent that in my work.  
